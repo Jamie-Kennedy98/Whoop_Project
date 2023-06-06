@@ -1,0 +1,4 @@
+# Ignore data folder because it is personal data
+data/
+# Ignore virtual environment (will upload requiremwnts.txt instead)
+.venv/
