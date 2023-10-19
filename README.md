@@ -1,6 +1,6 @@
 # Whoop_Project
 
-An analysis of my personal Whoop data. This analysis includes an exploration of the data followed by predictive modelling carried out using AWS Sagemaker.
+An analysis of my personal Whoop data. This analysis includes an exploration of the data followed by predictive modelling carried out using AWS Sagemaker. I have written a blog on this project which can be found at https://medium.com/@jamie-kennedy/predicting-my-recovery-score-a-whoop-data-dive-using-aws-sagemaker-79da409a45c1.
 
 
 ## Table of Contents
